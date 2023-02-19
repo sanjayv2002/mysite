@@ -8,45 +8,46 @@ const userData = {
   address: "Chennai, TamilNadu, India.",
   projects: [
     {
-      title: "Tailwind Master Kit",
-      link: "https://tailwindmasterkit.com",
+      title: "Custom - IDE",
+      link: "https://github.com/sanjayv2002/ide-1",
       imgUrl: "/tmk.jpg",
     },
-    {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
-    },
+    // {
+    //   title: "PlaceholderTech",
+    //   link: "https://placeholdertech.in",
+    //   imgUrl: "/placeholdertech.png",
+    // },
     {
       title: "Portfolio",
-      link: "https://manuarora.in",
+      link: "https://mysite-two-nu.vercel.app/",
       imgUrl: "/portfolio.png",
-    },
-    {
-      title: "CovidRescue",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
-    },
-    {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
-    },
-    {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
-    },
-    {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
-    },
+    }
+    // },
+    // {
+    //   title: "CovidRescue",
+    //   link: "https://covidrescue.co.in",
+    //   imgUrl: "/covidrescue.png",
+    // },
+    // {
+    //   title: "Algochurn",
+    //   link: "https://algochurn.com",
+    //   imgUrl: "/algochurn.png",
+    // },
+    // {
+    //   title: "Playground",
+    //   link: "https://play.placeholdertech.in",
+    //   imgUrl: "/playground.png",
+    // },
+    // {
+    //   title: "Feedmeback",
+    //   link: "https://feedmeback.vercel.app",
+    //   imgUrl: "/feedmeback.png",
+    // },
+    // {
+    //   title: "Devmedium",
+    //   link: "https://devmedium.vercel.app",
+    //   imgUrl: "/devmedium.png",
+    // },
   ],
   about: {
     title:
