@@ -1,7 +1,7 @@
 const userData = {
   githubUsername: "sanjayv2002",
   name: "Sanjay Kumar",
-  designation: "Data Scientist",
+  designation: " Aspiring Data Scientist",
   avatarUrl: "/propic.jpg",
   email: "sanjay.murthy.29@gmail.com",
   phone: "+91 8939339161",

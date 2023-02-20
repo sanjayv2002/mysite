@@ -10,7 +10,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const meta = {
     title: "Sanjay Kumar",
     description: `Playing with Data since 2020. Get in touch with me to know more.`,
-    image: "/avatar.png",
+    image: "/propic.png",
     type: "website",
     ...customMeta,
   };
